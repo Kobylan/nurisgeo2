@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nurisgeo2/static/css/main.828c10eb.chunk.css",
+    "main.js": "/nurisgeo2/static/js/main.c0e3a9c7.chunk.js",
+    "main.js.map": "/nurisgeo2/static/js/main.c0e3a9c7.chunk.js.map",
+    "runtime-main.js": "/nurisgeo2/static/js/runtime-main.b3f45fe5.js",
+    "runtime-main.js.map": "/nurisgeo2/static/js/runtime-main.b3f45fe5.js.map",
+    "static/css/2.81fc3d16.chunk.css": "/nurisgeo2/static/css/2.81fc3d16.chunk.css",
+    "static/js/2.26d506dd.chunk.js": "/nurisgeo2/static/js/2.26d506dd.chunk.js",
+    "static/js/2.26d506dd.chunk.js.map": "/nurisgeo2/static/js/2.26d506dd.chunk.js.map",
+    "index.html": "/nurisgeo2/index.html",
+    "precache-manifest.cd66bcc8c6fdcbe8493a04be02801478.js": "/nurisgeo2/precache-manifest.cd66bcc8c6fdcbe8493a04be02801478.js",
+    "service-worker.js": "/nurisgeo2/service-worker.js",
+    "static/css/2.81fc3d16.chunk.css.map": "/nurisgeo2/static/css/2.81fc3d16.chunk.css.map",
+    "static/css/main.828c10eb.chunk.css.map": "/nurisgeo2/static/css/main.828c10eb.chunk.css.map",
+    "static/js/2.26d506dd.chunk.js.LICENSE.txt": "/nurisgeo2/static/js/2.26d506dd.chunk.js.LICENSE.txt",
+    "static/media/change.gif": "/nurisgeo2/static/media/change.1e0a1a21.gif",
+    "static/media/index.scss": "/nurisgeo2/static/media/vuesax-login-bg.eb4e894d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f45fe5.js",
+    "static/css/2.81fc3d16.chunk.css",
+    "static/js/2.26d506dd.chunk.js",
+    "static/css/main.828c10eb.chunk.css",
+    "static/js/main.c0e3a9c7.chunk.js"
+  ]
+}
