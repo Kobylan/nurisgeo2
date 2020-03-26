@@ -61,7 +61,7 @@ class Productorders extends React.Component {
           }
         }
       },
-      labels: ["Finished", "Pending", "Rejected"]
+      labels: ["Температура", "Влажность","CO 2" ]
     },
     series: [70, 52, 26]
   }
