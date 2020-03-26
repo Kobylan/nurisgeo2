@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6cffcc74553d6aa52ff86c22ec3b2f1",
+    "revision": "65545d075504dccd25d9810a9db84a2c",
     "url": "/nurisgeo2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nurisgeo2/static/css/2.81fc3d16.chunk.css"
   },
   {
-    "revision": "a5847c4d918c944edc00",
+    "revision": "7eb0f888b3fd0b7dd705",
     "url": "/nurisgeo2/static/css/main.828c10eb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nurisgeo2/static/js/2.26d506dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5847c4d918c944edc00",
-    "url": "/nurisgeo2/static/js/main.c0e3a9c7.chunk.js"
+    "revision": "7eb0f888b3fd0b7dd705",
+    "url": "/nurisgeo2/static/js/main.5ccc4de3.chunk.js"
   },
   {
     "revision": "4b773cff7d9d90e3fdde",

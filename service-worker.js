@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nurisgeo2/precache-manifest.cd66bcc8c6fdcbe8493a04be02801478.js"
+  "/nurisgeo2/precache-manifest.e67ad01db1b3e2459e420c484894d34d.js"
 );
 
 self.addEventListener('message', (event) => {
